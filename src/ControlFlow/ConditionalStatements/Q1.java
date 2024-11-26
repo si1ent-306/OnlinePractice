@@ -1,4 +1,4 @@
-package ControlFlow;
+package ControlFlow.ConditionalStatements;
 
 import java.util.Scanner;
 
